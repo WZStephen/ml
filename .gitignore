@@ -1,0 +1,34 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_vendor/
+*.egg-info/
+*.egg/
+*.egg-info/
+*.egg-info/
+__pycache__/
+build/
+dist/
+.idea/
+*.iml
+.vscode/
+.env
+
+# Go files
+*.exe
+*.test
+*.prof
+*.cover
+*.out
+*.log
+*.vscode
+*.vs
+*.stackdump
+
+# Binary
+/bin/
+/pkg/
+/vendor/
